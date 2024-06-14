@@ -1,3 +1,7 @@
+## Lotto 
+
+**This project is a lottery built with the foundry framework, users can buy a ticket, and get a chance to win the prize pool. The fees go to the prize pool. after a period of time, it will choose a random winner. I will use chainlink VRF --> randomness and chainlink Automation --> time-based trigger.**
+
 ## Foundry
 
 **Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
